@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "ru.erp.mental_arithmetic_iclub",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 4,
+      "versionName": "2.1",
+      "enabled": true,
+      "outputFile": "app-release.apk"
+    }
+  ]
+}

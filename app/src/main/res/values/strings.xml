@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">IClub</string>
+    <string name="heading">Ваш счет</string>
+    <string name="ChangeLevel">Выберите сложность</string>
+    <string name="EasyLevel">Легкая</string>
+    <string name="MediumLevel">Средняя</string>
+    <string name="HardLevel">Трудная</string>
+    <string name="Settings">Настроить сложность</string>
+    <string name="check">Проверить</string>
+    <string name="speed">Скорость</string>
+    <string name="Numbers">Числа</string>
+    <string name="NumbersNegative">Отрицательные числа</string>
+    <string name="Grade">Разряды</string>
+    <string name="Quantity">Количество</string>
+    <string name="Start">Начать</string>
+    <string name="Razrad">Разряды</string>
+    <string name="Kolvo">Количество</string>
+    <string-array name="RazrArray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="KolArray">
+
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+
+
+
+</resources>
